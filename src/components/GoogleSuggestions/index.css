@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.img {
+  height: 92px;
+  width: 272px;
+  margin-bottom: 20px;
+}
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box-container {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 20px;
+  width: 550px;
+}
+.input-container {
+  display: flex;
+  margin-top: 12px;
+  outline: none;
+  background-color: #ffffff;
+}
+.search-image {
+  height: 26px;
+  width: 26px;
+  margin-left: 10px;
+}
+.input {
+  outline: none;
+  margin-right: 7px;
+  margin-left: 7px;
+  width: 80%;
+  background-color: #ffffff;
+  border: #ffffff;
+}
+.un-order {
+  display: flex;
+  flex-direction: column;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}

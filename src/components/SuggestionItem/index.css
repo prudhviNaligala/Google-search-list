@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.list-of-options {
+  display: flex;
+  justify-content: space-between;
+}
+.button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+.left-arrow {
+  height: 20px;
+  width: 20px;
+}
